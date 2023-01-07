@@ -54,6 +54,7 @@ img {
 a {
   text-decoration: none;
   color: #551A8B;
+  transition: all 0.2s
 }
 
 a:link {
