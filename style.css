@@ -64,8 +64,3 @@ a:link {
 a:hover {
   color: #EC79B3;
 }
-
-footer {
- position: fixed;
- bottom: 0;
-}
